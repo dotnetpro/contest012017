@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="PvB_BrowseForBotButtonToolTipCaption" xml:space="preserve">
+    <value>Durchsuchen nach Bot-DLL</value>
+  </data>
+  <data name="PvB_StartGameButtonToolTipCaption" xml:space="preserve">
+    <value>Spiel Starten</value>
+  </data>
+  <data name="PvB_OpenInfoButtonToolTipCaption" xml:space="preserve">
+    <value>Hilfe / Über</value>
+  </data>
+  <data name="PvB_BotNameLabelCaption" xml:space="preserve">
+    <value>Bot Name</value>
+  </data>
+  <data name="PvB_MaximalThinkingTimeLabelCaption" xml:space="preserve">
+    <value>restliche Bot-Berechnungszeit</value>
+  </data>
+  <data name="PvB_WallsLeftLabelCaption" xml:space="preserve">
+    <value>Wände</value>
+  </data>
+  <data name="PvB_ProgressCaption" xml:space="preserve">
+    <value>Spielfortschritt</value>
+  </data>
+  <data name="PvB_AutoScrollDownCheckBoxCaption" xml:space="preserve">
+    <value>Automatisch scrollen</value>
+  </data>
+  <data name="PvB_DebugCaption" xml:space="preserve">
+    <value>Debug</value>
+  </data>
+  <data name="PvB_CapitulateButtonCaption" xml:space="preserve">
+    <value>Kapitulieren</value>
+  </data>
+  <data name="PvB_HeaderCaptionPlayer" xml:space="preserve">
+    <value>Spieler</value>
+  </data>
+  <data name="WD_YesButtonCaption" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="WD_NoButtonCaption" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="WD_WinningMessage" xml:space="preserve">
+    <value>Glückwunsch! Du hast den Bot besiegt!</value>
+  </data>
+  <data name="WD_Message_Reason" xml:space="preserve">
+    <value>Grund</value>
+  </data>
+  <data name="WinningReason_RegularQuoridorWin" xml:space="preserve">
+    <value>Regulärer Sieg (erster auf der anderen Seite)</value>
+  </data>
+  <data name="WinningReason_Capitulation" xml:space="preserve">
+    <value>Kapitulation</value>
+  </data>
+  <data name="WinningReason_InvalidMode" xml:space="preserve">
+    <value>Ungültiger Zug</value>
+  </data>
+  <data name="WinningReason_ExceedanceOfMaxMoves" xml:space="preserve">
+    <value>The maximum of allowed moved where exceeded</value>
+  </data>
+  <data name="WinningReason_ExceedanceOfThoughtTime" xml:space="preserve">
+    <value>Die maximale Bedenkzeit wurde überschritten</value>
+  </data>
+  <data name="WD_LoosingMessage" xml:space="preserve">
+    <value>Schade, du hast gegen den Bot verloren</value>
+  </data>
+  <data name="WD_SaveGameRequest" xml:space="preserve">
+    <value>Willst du das Spiel speichern?</value>
+  </data>
+  <data name="QRP_PageHeader" xml:space="preserve">
+    <value>Quoridor - Spielregeln</value>
+  </data>
+  <data name="QRP_GeneralParagraphText" xml:space="preserve">
+    <value>Quoridor ist ein abstraktes Strategiespiel für 2 oder 4 Spieler. Im OpenQuoridorFramework wird nur das 2-Spieler-Spiel betrachtet, weswegen hier auch nur die Regeln für diese Variante aufgeführt werden.</value>
+  </data>
+  <data name="QRP_GeneralParagraphHeader" xml:space="preserve">
+    <value>Allgemein</value>
+  </data>
+  <data name="QRP_GameSetupParagraphHeader" xml:space="preserve">
+    <value>Spielaufbau</value>
+  </data>
+  <data name="QRP_GameSetupParagraphText" xml:space="preserve">
+    <value>Quoridor besteht aus einem Spielfeld mit 9x9 Feldern mit Zwischenräumen (Bild 1), zwei Spielfiguren, die auf den Feldern bewegt werden und 20 Wand-Elementen, die in den Zwischenräumen der Felder platziert werden können. Jeder Spieler erhält eine Spielfigur und 10 Wand-Elemente. Die Spielfiguren werden auf den Feldern e1 und e9 (siehe Quoridor-Notation) initial platziert. Der Spieler mit der Figur auf e1 beginnt mit dem ersten Zug.</value>
+  </data>
+  <data name="QRP_GameGoalParagraphHeader" xml:space="preserve">
+    <value>Spielziel</value>
+  </data>
+  <data name="QRP_GameGoalParagraphText" xml:space="preserve">
+    <value>Das Spiel endet sofort, wenn ein Spieler eines der 9 gegenüberliegenden Felder betritt. Dieser Spieler gewinnt.</value>
+  </data>
+  <data name="QRP_GameFlowParagraphHeader" xml:space="preserve">
+    <value>Spielablauf</value>
+  </data>
+  <data name="QRP_GameFlowParagraphText" xml:space="preserve">
+    <value>Es wird abwechseld gezogen bis ein Gewinner ermittelt ist. Ist ein Spieler an der Reihe muss er eine von 2 Aktionen ausführen. Entweder muss die Figur bewegt, oder ein Wand-Element platziert werden. Hat der Spieler kein Wand-Element mehr übrig, muss er die Figur ziehen. Eine Figur kann immer nur 1 Feld weit in eine Richtung (horizontal oder vertikal) bewegt werden. Jedoch nicht diagonal, nicht über ein Wand-Element und auch nicht aus dem Spielfeld heraus. Beim Setzen der Wand-Elemente ist zu beachten, dass sich diese immer zwischen den Feldern befinden müssen, sich nicht überschneiden dürfen, nicht aus dem Brett herausragen dürfen und dem Gegner immer ein Weg zu einem Zielfeld offen gehalten werden muss.</value>
+  </data>
+  <data name="QRP_SpecialMoveParagraphHeader" xml:space="preserve">
+    <value>Sonderregeln zur Bewegung</value>
+  </data>
+  <data name="QRP_SpecialMoveParagraphText" xml:space="preserve">
+    <value>Stehen die Figuren der Spieler in benachbarten Feldern, sodass der, der am Zug ist, auf das Feld des Anderen ziehen könnte (Bild 2), kann dieser den Gegner überspringen (Bild 3). Ist jedoch das Feld hinter der Figur nicht begehbar (weil es nicht existiert oder eine Wand im Weg ist), sind die Felder links und rechts des zu überspringenden Gegners potenzielle Zielfelder. Aber auch diese sind nur erreichbar, wenn keine Wand-Elemente den Weg versperren. Die Bilder 4 und 5 zeigen entsprechende Szenarien mit den jeweils möglichen Sprungpositionen.</value>
+  </data>
+  <data name="QRP_Picture1Caption" xml:space="preserve">
+    <value>Bild 1</value>
+  </data>
+  <data name="QRP_Picture2Caption" xml:space="preserve">
+    <value>Bild 2</value>
+  </data>
+  <data name="QRP_Picture3Caption" xml:space="preserve">
+    <value>Bild 3</value>
+  </data>
+  <data name="QRP_Picture4Caption" xml:space="preserve">
+    <value>Bild 4</value>
+  </data>
+  <data name="QRP_Picture5Caption" xml:space="preserve">
+    <value>Bild 5</value>
+  </data>
+  <data name="AP_PageHeader" xml:space="preserve">
+    <value>Über OpenQuoridorFramework</value>
+  </data>
+  <data name="AP_ApplicationSectionHeader" xml:space="preserve">
+    <value>Anwendung</value>
+  </data>
+  <data name="AP_VersionSectionHeader" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="AP_DeveloperSectionHeader" xml:space="preserve">
+    <value>Entwickler</value>
+  </data>
+  <data name="AP_ThirdPartySectionHeader" xml:space="preserve">
+    <value>Fremd-Anbieter-Elemente</value>
+  </data>
+  <data name="AP_QuoridorSectionHeader" xml:space="preserve">
+    <value>Quoridor</value>
+  </data>
+  <data name="AP_QuoridorInventorSubItem" xml:space="preserve">
+    <value>Erfinder</value>
+  </data>
+  <data name="AP_QuoridorPublisherSubItem" xml:space="preserve">
+    <value>Verlag</value>
+  </data>
+  <data name="AP_LicenceSectionHeader" xml:space="preserve">
+    <value>Lizenz</value>
+  </data>
+  <data name="QNP_PageHeader" xml:space="preserve">
+    <value>Quoridor - Notation</value>
+  </data>
+  <data name="QNP_GeneralParagraphHeader" xml:space="preserve">
+    <value>Allgemein</value>
+  </data>
+  <data name="QNP_GeneralParagraphText" xml:space="preserve">
+    <value>Da es keine offizielle Notation für Quoridor gibt, wurde für das OpenQuoridorFramework eine Notation entwickelt, die sich aus einigen zusammensetzt, die sich in wissenschaftlichen Arbeiten und den Internet-Communities finden lassen.</value>
+  </data>
+  <data name="QNP_Picture1Caption" xml:space="preserve">
+    <value>Bild 1</value>
+  </data>
+  <data name="QNP_Picture2Caption" xml:space="preserve">
+    <value>Bild 2</value>
+  </data>
+  <data name="QNP_TheBoardParagraphHeader" xml:space="preserve">
+    <value>Das Spielfeld</value>
+  </data>
+  <data name="QNP_FigureMoveParagraphHeader" xml:space="preserve">
+    <value>Spielzug (Figur)</value>
+  </data>
+  <data name="QNP_WallMoveParagraphHeader" xml:space="preserve">
+    <value>Spielzug (Wand)</value>
+  </data>
+  <data name="QNP_ExampleParagraphHeader" xml:space="preserve">
+    <value>Beispiel</value>
+  </data>
+  <data name="QNP_TheBoardParagraphText" xml:space="preserve">
+    <value>Angelehnt an die Schach-übliche Notation werden die Spalten durch Buchstaben und die Reihen durch Zahlen eindeutig zugeordnet.  Wie in Bild 1 zu sehen ist, ergibt sich so ein Spielraum vom Feld a1 (links unten) bis zum Feld i9 (rechts oben).</value>
+  </data>
+  <data name="QNP_FigureMoveParagraphText" xml:space="preserve">
+    <value>Ein Spielzug, bei dem die Figur bewegt wird, wird lediglich durch das Feld notiert, auf das der Spieler zieht.  Bewegt ein Spieler beispielsweise seine Figur von c3 nach c4 wird dieser Zug als 'c4' notiert.</value>
+  </data>
+  <data name="QNP_WallMoveParagraphText" xml:space="preserve">
+    <value>Ein Spielzug, bei dem ein Wand-Element platziert wird, wird durch eine eindeutige Positionsangabe des neuen Wand-Elements festgehalten. Eine Wand muss sich immer zwischen vier Feldern befinden. Folglich reicht es aus, eines dieser vier Felder und die Ausrichtung der Wand zu notieren. Bei der hier festgelegten Notation wird dazu das Feld links oben verwendet. Die Ausrichtungen werden durch ein 'h' für 'horizontal' und ein 'v' für 'vertikal' abgekürzt.</value>
+  </data>
+  <data name="QNP_ExampleParagraphText" xml:space="preserve">
+    <value>Nach der oben beschriebenen Notation befinden sich die Figuren in Bild 2 auf den Positionen 'c3' und 'e8'. Die beiden Wand-Elemente werden als 'd4h' und 'f8v' notiert.</value>
+  </data>
+  <data name="IP_QuoridorRulesButtonCaption" xml:space="preserve">
+    <value>Quoridor Spielregeln</value>
+  </data>
+  <data name="IP_QuoridorNotationButtonCaption" xml:space="preserve">
+    <value>Quoridor Notation</value>
+  </data>
+  <data name="IP_HowToWriteABotButtonCaption" xml:space="preserve">
+    <value>Wie man einen Bot entwickelt</value>
+  </data>
+  <data name="IP_AboutButtonCaption" xml:space="preserve">
+    <value>Über</value>
+  </data>
+  <data name="IP_ReplayViewerInfoButtonCaption" xml:space="preserve">
+    <value>Hilfe zur Anwendung </value>
+  </data>
+  <data name="IP_PlayerVsBotInfoButtonCaption" xml:space="preserve">
+    <value>Hilfe zur Anwendung </value>
+  </data>
+  <data name="IP_BotVsBotIntoButtonCaption" xml:space="preserve">
+    <value>Hilfe zur Anwendung </value>
+  </data>
+  <data name="IP_TournamentInfoButtonCaption" xml:space="preserve">
+    <value>Hilfe zur Anwendung </value>
+  </data>
+  <data name="IP_CloseButtonCaption" xml:space="preserve">
+    <value>Schließen</value>
+  </data>
+  <data name="HTWAB_FieldCoordinateParagraphHeader" xml:space="preserve">
+    <value>FieldCoordinate</value>
+  </data>
+  <data name="HTWAB_WallParagraphHeader" xml:space="preserve">
+    <value>Wall</value>
+  </data>
+  <data name="HTWAB_BoardStateParagraphHeader" xml:space="preserve">
+    <value>BoardState</value>
+  </data>
+  <data name="HTWAB_MovesParagraphHeader" xml:space="preserve">
+    <value>Move(s)</value>
+  </data>
+  <data name="HTWAB_GameConstraintsParagraphHeader" xml:space="preserve">
+    <value>GameContraints</value>
+  </data>
+  <data name="HTWAB_PageHeader" xml:space="preserve">
+    <value>Wie man einen Bot entwickelt</value>
+  </data>
+  <data name="HTWAB_GeneralProceedingParagraphHeader" xml:space="preserve">
+    <value>Grundsätzliches Vorgehen</value>
+  </data>
+  <data name="HTWAB_GeneralProceedingItem1" xml:space="preserve">
+    <value>1. Neue Solution mit einem leeren Projekt (ClassLibrary) anlegen</value>
+  </data>
+  <data name="HTWAB_GeneralProceedingItem2" xml:space="preserve">
+    <value>2. OQF.Bot.Contracts.dll als Referenz zum Projekt hinzufügen</value>
+  </data>
+  <data name="HTWAB_GeneralProceedingItem3" xml:space="preserve">
+    <value>3. Bot-Klasse erstellen und von IQuoridorBot ableiten</value>
+  </data>
+  <data name="HTWAB_GeneralProceedingItem4" xml:space="preserve">
+    <value>4. IQuoridorBot-Interface implementieren</value>
+  </data>
+  <data name="HTWAB_GeneralProceedingItem5" xml:space="preserve">
+    <value>5. Applikation (z.B. PlayerVsBot) starten und Bot testen</value>
+  </data>
+  <data name="HTWAB_ImportantClassesParagraphHeader" xml:space="preserve">
+    <value>Die wichtigsten Klassen/Enums/Structs in der OQF.Bot.Contracts.dll</value>
+  </data>
+  <data name="HTWAB_ImportantClassesParagraphNote" xml:space="preserve">
+    <value>Anmerkung: Alle Klassen und Structs sind als unveränderliche Immutables realisiert.</value>
+  </data>
+  <data name="HTWAB_FieldCoordinateParagraphText" xml:space="preserve">
+    <value>Eine FieldCoordinate beschreibt eine Position auf dem Spieldfeld (siehe Quoridor-Notation). Die X- und Y-Koordinaten sind wiederum jeweils durch ein Enum representiert.</value>
+  </data>
+  <data name="HTWAB_PlayerAndStateParagraphHeader" xml:space="preserve">
+    <value>Player und PlayerState</value>
+  </data>
+  <data name="HTWAB_PlayerAndStateParagraphText" xml:space="preserve">
+    <value>Der Spieler (Player) wird durch die Player-Klasse definiert. In ihr ist der Name des Spielers, sowie die Startposition (PlayerType) festgehalten. Diese Werte ändern sich während eines Spiels niemals. Der aktuelle Zustand des Spielers, wird durch PlayerState representiert. Dieser besteht aus einer Referenz zum Spieler, der aktuellen position auf dem Brett, sowie der Anzahl an Wänden, die der Spieler noch platzieren darf.</value>
+  </data>
+  <data name="HTWAB_WallParagraphText" xml:space="preserve">
+    <value>Die Wand-Klasse und damit auch das Wand-Element definiert sich durch eine Position und Orientierung (siehe Quoridor-Notation). Erstere ist eine FieldCoordinate, letztere eine eigens für diesen Zweck erstellte Enumeration.</value>
+  </data>
+  <data name="HTWAB_BoardStateParagraphText" xml:space="preserve">
+    <value>Der aktuelle Spielzustand wird durch BoardState dargestellt. Alle zu diesem Zeitpunkt relevanten Informationen sind darin zu finden: Alle platzierten Wände, die Status der beiden Spieler (PlayerState) und den Spieler, der am Zug ist. Zudem lässt sich über LastBoardState und LastMove, die komplette Spiel-Historie bis zu diesem Punkt rekonstruieren.</value>
+  </data>
+  <data name="HTWAB_MovesParagraphText" xml:space="preserve">
+    <value>Von der abstrakten Oberklasse Move ausgehend gibt es 3 verschiedene Züge aus denen der Spieler/Bot bei jeder Runde auswählen muss. Der FigureMove, mit dessen Hilfe die Spielfigur bewegt werden kann, der WallMove, mit dem eine Wand platziert werden kann und der Capitulation, falls eine Lage gar zu aussichtslos ist.</value>
+  </data>
+  <data name="HTWAB_GameConstraintsParagraphText" xml:space="preserve">
+    <value>Die Klasse GameConstraints enthält die Rahmenbedingungen für das aktuelle Spiel. Dies ist die maximale Bedenkzeit (nur für Bots) und die maximale Anzahl an Zügen die möglich sind, bevor das Spiel abgebrochen wird.</value>
+  </data>
+  <data name="HTWAB_GameFlowParagraphHeader" xml:space="preserve">
+    <value>Spielablauf aus der Sicht eines Bots</value>
+  </data>
+  <data name="HTWAB_GameFlowItem1" xml:space="preserve">
+    <value>1. Die Methode Init(PlayerType, GameConstraints) wird aufgerufen. Hier wird dem Bot mitgeteilt, auf welcher Seite des Bretts er startet und wie die Rahmenbedingungen für das kommende Spiel aussehen.</value>
+  </data>
+  <data name="HTWAB_GameFlowItem2" xml:space="preserve">
+    <value>2. Nun wird das Spiel gestartet und jedes mal, wenn der Bot an der Reihe ist einen Zug auszuführen, wird die Methode DoMove(BoardState) aufgerufen. Im Argument wird dem Bot der aktuelle Spielstand mitgeteilt.</value>
+  </data>
+  <data name="HTWAB_GameFlowItem3" xml:space="preserve">
+    <value>3. Jetzt hat der Bot maximal die, in den GameConstraints angegebene Zeit um das Event NextMoveAvailable zu feuern, um seinen nächsten Zug auszuführen.</value>
+  </data>
+  <data name="HTWAB_GameFlowItem4" xml:space="preserve">
+    <value>4. Anschließend ist der Gegenspieler an der Reihe. Hat dieser auch seinen Zug ausgeführt, wird wieder die DoMove(BoardState)-Methode aufgerufen. Dies wiederholt sich, bis ein Sieger ermittelt ist.</value>
+  </data>
+  <data name="HTWAB_GameFlowItem5" xml:space="preserve">
+    <value>5. Der Bot kann jederzeit durch das Feuern des DebugMessageAvailable-Events eine Text-Nachricht abschicken, welche anschließend auf der Oberfläche dargestellt wird.</value>
+  </data>
+  <data name="HTWAB_ExampleParagraphHeader" xml:space="preserve">
+    <value>Beispiel-Implementierung</value>
+  </data>
+  <data name="HTWAB_ExampleParagraphText" xml:space="preserve">
+    <value>Eine beispielhafte Bot-Implementierung ist der SimpleWalkingBot. Dieser findet sich im Git-Repository  des OpenQoridorFrameworks (siehe: Über) unter 'OpenQuoridorFramework/Bots/SimpleWalkingBot/SimpleWalkingBot.cs'.</value>
+  </data>
+  <data name="AP_SourceCodeSectionHeader" xml:space="preserve">
+    <value>SourceCode</value>
+  </data>
+  <data name="AP_SourceCodeSectionText" xml:space="preserve">
+    <value>Der SourceCode des OpenQuoridorFrameworks befindet sich in einem Git-Repository auf GitHub</value>
+  </data>
+  <data name="PvB_DumpDebugToFileButtonCaption" xml:space="preserve">
+    <value>Speichern</value>
+  </data>
+  <data name="PvBH_PageHeader" xml:space="preserve">
+    <value>Übersicht zu 'Player vs Bot'</value>
+  </data>
+  <data name="PvBH_Note" xml:space="preserve">
+    <value>Hinweis: Um einen Zug zu machen, muss direkt auf das Spielfeld geklickt werden. Sowohl für die Wand-Elemente, wie auch für eine Figurbewegung steht eine Vorschau zur verfügung.</value>
+  </data>
+  <data name="PvB_DumpDebugFileDialogTitle" xml:space="preserve">
+    <value>Speichere Debug-Nachrichten</value>
+  </data>
+  <data name="PvB_SaveGameProgressFileDialogTitle" xml:space="preserve">
+    <value>Speichere Spielfortschritt von beendetem Spiel</value>
+  </data>
+  <data name="PvB_ErrorMsg_NoDllPath" xml:space="preserve">
+    <value>Bevor das Spiel gestartet werden kann muss eine bot-Dll ausgewählt werden</value>
+  </data>
+  <data name="PvB_ErrorMsg_FileDoesNotExist" xml:space="preserve">
+    <value>Die Datei existiert nicht</value>
+  </data>
+  <data name="PvB_ErrorMsg_FileIsNoAssembly" xml:space="preserve">
+    <value>Die Datei ist keine gültige Assembly</value>
+  </data>
+  <data name="PvB_ErrorMsg_BotCanNotBeLoadedFromAsembly" xml:space="preserve">
+    <value>Aus der Datei kann kein Bot geladen werden</value>
+  </data>
+  <data name="ND_OkButtonCaption" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="PvB_DumpProgressToFileButtonCaption" xml:space="preserve">
+    <value>Speichern</value>
+  </data>
+  <data name="PvB_DumpProgressFileDialogTitle" xml:space="preserve">
+    <value>Speichere aktuellen Spielstand</value>
+  </data>
+  <data name="PvB_StartWithProgressGameButtonToolTipCaption" xml:space="preserve">
+    <value>Spiel mit Verlaufsdatei starten</value>
+  </data>
+  <data name="FVR_EmptyOrInvalidFile" xml:space="preserve">
+    <value>Die Datei ist leer oder ungültig</value>
+  </data>
+  <data name="FVR_FileContainsInvalidMove" xml:space="preserve">
+    <value>Die Datei beinhaltet einen ungültigen Zug</value>
+  </data>
+  <data name="FVR_FileContainsTerminatedGame" xml:space="preserve">
+    <value>Die Datei beinhaltet ein Spiel, das bereits beendet ist</value>
+  </data>
+  <data name="PvB_ErrorMsg_ProgressFileCannotBeLoaded" xml:space="preserve">
+    <value>Die Textdatei kann nicht als Spielfortschrittsdatei geladen werden</value>
+  </data>
+  <data name="PvB_ErrorMsg_Reason" xml:space="preserve">
+    <value>Grund</value>
+  </data>
+  <data name="HTWAB_HintParagraphHeader" xml:space="preserve">
+    <value>Tipp</value>
+  </data>
+  <data name="HTWAB_HintParagraphText" xml:space="preserve">
+    <value>Das Debugging kann noch vereinfacht werden, wenn man das Bot-Projekt so verändert, dass beim Start des Debugging automatisch die PlayerVsBot-Applikation mit dem aktuellen Bot geladen wird. Hierzu muss, wie im Bild beispielhaft gezeigt, die 'Start Action' in den Project-Properties so angepasst werden, dass die PlayerVsBot-Applikation und nicht das eigentliche Projekt gestartet wird. Außerdem muss die aktuell gebaute DLL als Command-Line-Argument übergeben werden. Hier die Anführungszeigen nicht vergessen! Außerdem gibt es noch drei weitere CommandLine-Parameter, die angegeben werden können. Mit "-disableBotTimeout" wird der Bot nach nach 60 Sekunden nicht mehr unterbrochen. Hiermit sind folglich längere Debug-Sessions möglich. Und mit "-disableClosingDialog" wird verhindert, dass das Programm beim Schließen, während ein Spiel läuft, mit einem Dialog nachfragt, ob denn das Spiel wirklich abgebrochen werden soll. Mit '-progressFile="[...]"' kann eine Spielfortschrittsdatei angegeben werden, mit der das Spiel direkt gestartet wird, um beispielsweise eine bestimmte Situation einfacher debuggen zu können.</value>
+  </data>
+  <data name="PvBH_Explanation01" xml:space="preserve">
+    <value>1. Bot-DLL von der Festplatte suchen und laden</value>
+  </data>
+  <data name="PvBH_Explanation02" xml:space="preserve">
+    <value>2. Spiel starten (sofern vorher ein Bot gewählt wurde)</value>
+  </data>
+  <data name="PvBH_Explanation03" xml:space="preserve">
+    <value>3. Spiel von Spielfortschrittsdatei starten (sofern vorher ein Bot gewählt wurde)</value>
+  </data>
+  <data name="PvBH_Explanation04" xml:space="preserve">
+    <value>4. Name des Bots gegen den gespielt wird</value>
+  </data>
+  <data name="PvBH_Explanation05" xml:space="preserve">
+    <value>5. Anzeigesprache wählen</value>
+  </data>
+  <data name="PvBH_Explanation06" xml:space="preserve">
+    <value>6. Hilfe öffnen</value>
+  </data>
+  <data name="PvBH_Explanation07" xml:space="preserve">
+    <value>7. Spielfortschritt ein- und ausklappen</value>
+  </data>
+  <data name="PvBH_Explanation08" xml:space="preserve">
+    <value>8. Aktuellen Spielfortschritt in Text-Datei speichern</value>
+  </data>
+  <data name="PvBH_Explanation09" xml:space="preserve">
+    <value>9. Automatisches herunterscrollen des Spielfortschritts aktivieren/deaktivieren</value>
+  </data>
+  <data name="PvBH_Explanation10" xml:space="preserve">
+    <value>10. Spielfortschritt des aktuellen Spiels (siehe: Quoridor-Notation)</value>
+  </data>
+  <data name="PvBH_Explanation11" xml:space="preserve">
+    <value>11. Anzahl an Wand-Elementen, die der Bot noch platzieren kann</value>
+  </data>
+  <data name="PvBH_Explanation12" xml:space="preserve">
+    <value>12. Aktuell dargestellte Debug-Nachtichten in Text-Datei speichern</value>
+  </data>
+  <data name="PvBH_Explanation13" xml:space="preserve">
+    <value>13. Automatisches herunterscrollen der Debug-Nachrichten aktivieren/deaktivieren</value>
+  </data>
+  <data name="PvBH_Explanation14" xml:space="preserve">
+    <value>14. Debug-Nachrichten-Bereich ein- und ausklappen</value>
+  </data>
+  <data name="PvBH_Explanation15" xml:space="preserve">
+    <value>15. Debug-Nachrichten des aktuellen Spiels</value>
+  </data>
+  <data name="PvBH_Explanation16" xml:space="preserve">
+    <value>16. Platzierte Wand-Elemente auf dem Spielfeld</value>
+  </data>
+  <data name="PvBH_Explanation17" xml:space="preserve">
+    <value>17. Spielfigur des Bots (weiß)</value>
+  </data>
+  <data name="PvBH_Explanation18" xml:space="preserve">
+    <value>18. Spielfigur des Spielers (schwarz)</value>
+  </data>
+  <data name="PvBH_Explanation19" xml:space="preserve">
+    <value>19. Mögliches Zugfeld für den Spieler</value>
+  </data>
+  <data name="PvBH_Explanation20" xml:space="preserve">
+    <value>20. Das Spiel aufgeben -&gt; der Bot gewinnt</value>
+  </data>
+  <data name="PvBH_Explanation21" xml:space="preserve">
+    <value>21. Anzahl der Wand-Elemente, die der Spieler noch platzieren kann</value>
+  </data>
+  <data name="ClosingDialogMessage" xml:space="preserve">
+    <value>Programm während eines laufenden Spiels beenden?</value>
+  </data>
+  <data name="SavingDialogMessage" xml:space="preserve">
+    <value>Aktuellen Spielfortschritt speichern?</value>
+  </data>
+  <data name="PvB_MovesLeftLabelCaption" xml:space="preserve">
+    <value>Übrige Züge</value>
+  </data>
+  <data name="FVR_FileContainsMoreMovesThanAllowed" xml:space="preserve">
+    <value>Die Datei beinhaltet mehr Züge als im zu startenden Spiel erlaubt sind</value>
+  </data>
+</root>
