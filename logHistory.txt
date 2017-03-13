@@ -1,0 +1,136 @@
+======================== Tournament started ========================
+Next match started: CrazyBot vs. DonkeyBot
+CrazyBot wins because of RegularQuoridorWin [rasp8er7k07prxgxti53yk3m7dbsv1yy1nc3oll230uwg4b9a8a68lzy9qy3gx8azwipdjz971quoq605k8u12qbtzfcpxi2]
+
+Next match started: CrazyBot vs. LukasBot
+LukasBot wins because of RegularQuoridorWin [44uxc3k697jsjb7v9qen3hidfwnm2ndclpr4bzn4y74n8qo8bb9je5b46pp5kzs]
+
+Next match started: CrazyBot vs. MazeMakerDuelBot
+CrazyBot wins because of ExceedanceOfThoughtTime [6hu26]
+
+Next match started: CrazyBot vs. QBot
+QBot wins because of RegularQuoridorWin [rre1rcdm1kzb0ww1v5fm87us8i6nwpih7s3ij5433tur9xdce0dqql04payu1igjp3fxy8ex4zp9hs8qjtglvcgf25o8u5b32blmsxn7p]
+
+Next match started: CrazyBot vs. QMinatorBotJochenBaier
+QMinatorBotJochenBaier wins because of InvalidMove [9sdzk3iq4kop9h8eguoxwpnunia2k7cfrxd2shca851pn2cg0mi8n4snfm3xm88e]
+
+Next match started: CrazyBot vs. StefanBoos
+StefanBoos wins because of RegularQuoridorWin [8naftdlm00yc0d4c2vq1dau1v6bwf6ms3yaousezh6btd21sbd7b2yzzrqjughthuxvwhywti0aaljkt0eknhn0x2c3koeuozbnusjottp86h]
+
+Next match started: DonkeyBot vs. CrazyBot
+DonkeyBot wins because of InvalidMove [d528rb4t6jx3wcr8lfu3edpsjlyqw8k7ygq5659133h8umbs28bym673zgl7xymmwrs5wuscait9ubn3rz7a1t2leeo48e20xsylud7p7bohr8]
+
+Next match started: DonkeyBot vs. LukasBot
+DonkeyBot wins because of RegularQuoridorWin [5tdvnnm8iy0pa16lbiimuvdufd67csd25lj29o9we95kejmzhrlgkyarle6n5vw9wks1imx98cvl96a4a23io3nphc3gnzdtn2g5wqowgra4zuntyj8jqrlc9p]
+
+Next match started: DonkeyBot vs. MazeMakerDuelBot
+DonkeyBot wins because of ExceedanceOfThoughtTime [6hu26]
+
+Next match started: DonkeyBot vs. QBot
+QBot wins because of RegularQuoridorWin [8qezbk1a47i8a92fvzg6l0j8rbenta07b4u28w7tt7rxlyp8xd9nimmpuzr5abtnijyf2o8v28qbuk9elknjg5l3b4xuur9xm896e48em8u249kcikqs7ac8vbj1ili]
+
+Next match started: DonkeyBot vs. QMinatorBotJochenBaier
+QMinatorBotJochenBaier wins because of RegularQuoridorWin [3hw79dgbg69fq42t59ofiehghwevz23s0p3gee5i4f4l7a76a7ftb4gnwy3ksxrtekva7swjt5701r8gd3slaf209trg8zecfdvg547l3dgk]
+
+Next match started: DonkeyBot vs. StefanBoos
+StefanBoos wins because of RegularQuoridorWin [skz220vmkte8ikxu9reqrbjo5et3gaawjz4q6lzkwzrpcpwej1u8fwhpp040cmblf85oewwg9p10qrq0ndpr9cvn6ice3r0xdlwemz0nwbq2yns3wuehezw]
+
+Next match started: LukasBot vs. CrazyBot
+LukasBot wins because of RegularQuoridorWin [255deo9uvswk7em4jcft8agcegzpiwxbdmziggfzfvam5yhplwqes34kolt5ph]
+
+Next match started: LukasBot vs. DonkeyBot
+LukasBot wins because of RegularQuoridorWin [3km1amfy73q0sadyrqkdzzor1cuox8jcno4poqnrhccyk7nermbqp25zt4ll57mxheyqmvfelh8htr1w5cvhxhx12nv7zlbf433i3z08vc9yasavx0gyjhziyxo6yp]
+
+Next match started: LukasBot vs. MazeMakerDuelBot
+LukasBot wins because of ExceedanceOfThoughtTime [yxgy5b]
+
+Next match started: LukasBot vs. QBot
+LukasBot wins because of RegularQuoridorWin [21aikbfhnu8fsuz6r7ctn5w9xgscla6yi0fokik2f1bgruk7vi2ytznrfss91rrb45od6jmlon7xdbj7xah9tjsrhrxnr6u6s3upi78obm0ib4p4d8mm]
+
+Next match started: LukasBot vs. QMinatorBotJochenBaier
+QMinatorBotJochenBaier wins because of RegularQuoridorWin [d528eru3tybknrbsj9ihtena04uv1gun5tgcpya97kbg9lrz6nv48fhhzwo11d9a61eni40sajp0z72sadyb4es9grxtd1xbbijca82nfgu80k]
+
+Next match started: LukasBot vs. StefanBoos
+LukasBot wins because of RegularQuoridorWin [8x75hkhh70nygqvkeme14c45l3tfll34zkwvcncyw5kgrvag7h9xqzts6t3ee1s1mjp9i53avsvm2ffihdr415cmy9nu8zg2eoizqtlufp2kpmwekv8mk8]
+
+Next match started: MazeMakerDuelBot vs. CrazyBot
+CrazyBot wins because of ExceedanceOfThoughtTime [32na]
+
+Next match started: MazeMakerDuelBot vs. DonkeyBot
+DonkeyBot wins because of ExceedanceOfThoughtTime [6hetm]
+
+Next match started: MazeMakerDuelBot vs. LukasBot
+LukasBot wins because of ExceedanceOfThoughtTime [32na]
+
+Next match started: MazeMakerDuelBot vs. QBot
+QBot wins because of ExceedanceOfThoughtTime [32na]
+
+Next match started: MazeMakerDuelBot vs. QMinatorBotJochenBaier
+QMinatorBotJochenBaier wins because of ExceedanceOfThoughtTime [32na]
+
+Next match started: MazeMakerDuelBot vs. StefanBoos
+StefanBoos wins because of ExceedanceOfThoughtTime [32na]
+
+Next match started: QBot vs. CrazyBot
+CrazyBot wins because of RegularQuoridorWin [5sy1n6p8qqgnuyuihcabythndffkomm2wjsdaajivoxowglok8r2v2mtapaomdhgsoifrvv9egls1hsut9sj8rasqaa28rwh6pl1hx1wj3rmy4hkc2nr09ve0fcnpeg5n42]
+
+Next match started: QBot vs. DonkeyBot
+DonkeyBot wins because of ExceedanceOfThoughtTime [292969li]
+
+Next match started: QBot vs. LukasBot
+LukasBot wins because of RegularQuoridorWin [8x77ho197ftmtqkt04donkxx9weybphpx1im8uvo300fb5nkmryqyrotdy8wiy47apyexbdx3noi5kpnk2anzjmvnurz6nmdcclntmfug2sm2fhqdbw6cp]
+
+Next match started: QBot vs. MazeMakerDuelBot
+QBot wins because of ExceedanceOfThoughtTime [6hu26]
+
+Next match started: QBot vs. QMinatorBotJochenBaier
+QMinatorBotJochenBaier wins because of RegularQuoridorWin [y5lw7a6j67omge50sifr06y5loy0f1w02]
+
+Next match started: QBot vs. StefanBoos
+QBot wins because of RegularQuoridorWin [5sy1n6p6tcxal6g4xl32cv1evvhbnjrldsxmi6k3ijsyb9uksc3e2kd4oc8e7ucxnxr17mb3j2ajdw8vinoj0r5gb6bpjxey2kehb908elcz84zgtprdd2s3e90vcn8szik]
+
+Next match started: QMinatorBotJochenBaier vs. CrazyBot
+QMinatorBotJochenBaier wins because of RegularQuoridorWin [skz7ghbfnyu4c18j90mj94feb4ogwkau1skyud1xpyo9wds9fm747n83qifhqdbjgmx1tek5kul26brmgpbtxdfy0iuhd6fgvn4z87rr5ox8g5orqeu1jf4]
+
+Next match started: QMinatorBotJochenBaier vs. DonkeyBot
+QMinatorBotJochenBaier wins because of RegularQuoridorWin [5cmt900shw1fy8kxyqfgn4gbd2hvu9fubn2ydfywq5v7mxg740znfx46vdb3i1kidauxlxc753tdwy7abt1hg4ijdkboha8]
+
+Next match started: QMinatorBotJochenBaier vs. LukasBot
+QMinatorBotJochenBaier wins because of RegularQuoridorWin [5jd0szwnm1ib6ifnhc6b9ztdnkpowqqoixkmoi7f9641z9nharm1665wwcoecnbxd1svyqvosaajc8f9d9nvoejxcmac7esdv9iqtfwn81vkphzr8]
+
+Next match started: QMinatorBotJochenBaier vs. MazeMakerDuelBot
+QMinatorBotJochenBaier wins because of ExceedanceOfThoughtTime [6hu26]
+
+Next match started: QMinatorBotJochenBaier vs. QBot
+QMinatorBotJochenBaier wins because of RegularQuoridorWin [5fmb86tjq02a7lnvy9y547m7wx65umbbt03yiloqj1xxyx04bn7rohrj7kfv0mvu7swbk1w054mmp093r5wc2y2rjhq1uxcjo08uieyenest5jkgy898fowesm]
+
+Next match started: QMinatorBotJochenBaier vs. StefanBoos
+StefanBoos wins because of RegularQuoridorWin [dz3y5iy93qa4sbaudxpte9hezhbtzbb41n1xkq3egjjdwieqy52ox2x6qjlzp35epwts3g8tsfrq9aeuh45m4nfzgu4m]
+
+Next match started: StefanBoos vs. CrazyBot
+StefanBoos wins because of RegularQuoridorWin [2262r3pv9yxoh855mqjdirca8csm0phj4sssnidfgyp2dpcvgnfbqlouaiezj9yv8hoexi72lcjg5jqhyusamtlbkchzmrs1z4xtf4np3s4]
+
+Next match started: StefanBoos vs. DonkeyBot
+StefanBoos wins because of RegularQuoridorWin [3knm9wwm9lba00zkjal4y4upv64185033u34av2wusl2x9yikiseqrfx1ybugroh7et1rj00zd7k1vk006gcnjf9tf7r0xkejghft4ehv89pt7cl6o0ttxlcqwl5py]
+
+Next match started: StefanBoos vs. LukasBot
+LukasBot wins because of RegularQuoridorWin [8hx6fo0t570pq5874ijz9q4oyar2idgax8zb93y9h10b7hz26xb1f32suqf07spzhu44a0ff8eya9qvuppzqjzdc3bqhnoytpynd58mm6ji2zg6jiyx75nhn76msk6f]
+
+Next match started: StefanBoos vs. MazeMakerDuelBot
+StefanBoos wins because of ExceedanceOfThoughtTime [6hu26]
+
+Next match started: StefanBoos vs. QBot
+StefanBoos wins because of RegularQuoridorWin [3l1kndyx7je4gwj1dwij6pbel8j60e7sr3fx9h8b5sf97q9qz06hexsa2otcrd1zsbebq11eftz63g3hpnd1xyk4gso0r1tffquzb7swfoynbhko06064pajcf50ap]
+
+Next match started: StefanBoos vs. QMinatorBotJochenBaier
+QMinatorBotJochenBaier wins because of RegularQuoridorWin [2ddche9u0c3aw7uetbphlgsml8thm2k9sb5cnbdtcoktby60y07omjb2t0ag4pginwl6kg4bdmk4mmg5g1vqd6nplzb3j7lvigsg11xp7ome6e3dbl3lm27iseftz456gryuncdvi0f]
+
+
+1. QMinatorBotJochenBaier (11)
+2. LukasBot (9)
+3. StefanBoos (8)
+4. DonkeyBot (5)
+5. QBot (5)
+6. CrazyBot (4)
+7. MazeMakerDuelBot (0)
+======================== Tournament over ========================
